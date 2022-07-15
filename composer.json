@@ -2,12 +2,14 @@
     "name": "iqual/iq_pagedesigner",
     "description": "Metapackage for easy instalation of pagedesigner modules.",
     "type": "drupal-custom-module",
-    "repositories": [
-      {
-        "type": "composer",
-        "url": "https://github.com/iqual-ch/iq_pagedesigner"
-      }
+    "keywords": [
+      "Drupal"
     ],
+    "homepage": "https://github.com/iqual-ch/iq_pagedesigner",
+    "support": {
+      "issues": "https://github.com/iqual-ch/iq_pagedesigner/issues",
+      "source": "https://github.com/iqual-ch/iq_pagedesigner"
+    },
     "require": {
       "drupal/pagedesigner_effects":"^2.0",
       "drupal/pagedesigner":"^2.0@beta",

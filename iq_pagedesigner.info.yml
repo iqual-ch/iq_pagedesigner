@@ -1,6 +1,6 @@
 name: iq_pagedesigner
 type: module
 description: Metapackage for easy instalation of pagedesigner modules
-package: Custom
+package: 'pagedesigner'
 core: 8.x
 core_version_requirement: ^8 || ^9
