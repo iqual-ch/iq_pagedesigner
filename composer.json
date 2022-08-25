@@ -12,8 +12,9 @@
     },
     "require": {
       "drupal/pagedesigner_effects":"^2.0",
-      "drupal/pagedesigner":"^2.0@beta",
+      "drupal/pagedesigner":"^2.0",
       "drupal/pagedesigner_favourite":"^2.0",
-      "drupal/pagedesigner_responsive_images":"^2.1"
+      "drupal/pagedesigner_responsive_images":"^2.1",
+      "drupal/pagedesigner_parts":"^2.0"
     }
   }
