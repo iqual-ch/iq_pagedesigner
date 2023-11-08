@@ -12,9 +12,9 @@
   },
   "require": {
     "php": "^8.1",
-    "drupal/core": "^10.1",
+    "drupal/core": "^9.5 || <10.1",
     "drupal/pagedesigner_effects": "^3.0",
-    "drupal/pagedesigner": "^3.0",
+    "drupal/pagedesigner": "~3.0.0",
     "drupal/pagedesigner_favourite": "^3.0",
     "drupal/pagedesigner_responsive_images": "^3.0",
     "drupal/pagedesigner_parts": "^3.0"
