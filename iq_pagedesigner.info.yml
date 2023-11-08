@@ -3,7 +3,7 @@ type: module
 description: Metapackage for easy instalation of pagedesigner modules
 package: "pagedesigner"
 
-core_version_requirement: ^10.1
+core_version_requirement: ^9.5 || <10.1
 
 dependencies:
   - pagedesigner:pagedesigner
