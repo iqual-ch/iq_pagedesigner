@@ -12,11 +12,11 @@
   },
   "require": {
     "php": "^8.1",
-    "drupal/core": "^10.1 || ^11",
-    "drupal/pagedesigner_effects": "dev-3438544-drupal-11-upgrade as 4.0.0",
+    "drupal/core": "^10 || ^11",
+    "drupal/pagedesigner_effects": "4.x-dev",
     "drupal/pagedesigner": "4.x-dev",
-    "drupal/pagedesigner_favourite": "dev-3520137-drupal-11-upgrade as 4.0.0",
-    "drupal/pagedesigner_responsive_images": "dev-3542735-drupal-11 as 4.0.0",
-    "drupal/pagedesigner_parts": "dev-3438548-drupal-11-upgrade as 4.0.0"
+    "drupal/pagedesigner_favourite": "4.x-dev",
+    "drupal/pagedesigner_responsive_images": "4.x-dev",
+    "drupal/pagedesigner_parts": "4.x-dev"
   }
 }
