@@ -16,7 +16,7 @@
     "drupal/pagedesigner_effects": "^4.1",
     "drupal/pagedesigner": "^4.2",
     "drupal/pagedesigner_favourite": "^4.1",
-    "drupal/pagedesigner_responsive_images": "^4.1",
+    "drupal/pagedesigner_responsive_images": "^4.2",
     "drupal/pagedesigner_parts": "^4.1"
   }
 }
